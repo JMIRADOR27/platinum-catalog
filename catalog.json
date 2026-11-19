@@ -12,6 +12,36 @@
       "title": "Demo Song Two",
       "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/2.wav",
       "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/2.lrc"
+    },
+    {
+      "number": 3,
+      "title": "Sunny Morning",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/3.mp3",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/3.lrc"
+    },
+    {
+      "number": 4,
+      "title": "Slow Dance Tonight",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/4.mp3",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/4.lrc"
+    },
+    {
+      "number": 5,
+      "title": "Road Trip Anthem",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/5.mp3",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/5.lrc"
+    },
+    {
+      "number": 6,
+      "title": "Rainy Window",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/6.mp3",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/6.lrc"
+    },
+    {
+      "number": 7,
+      "title": "Party Lights",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/7.mp3",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/7.lrc"
     }
   ]
 }
