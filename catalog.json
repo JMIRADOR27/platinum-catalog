@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "number": 1,
+      "title": "Demo Song One",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/1.wav",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/1.lrc"
+    },
+    {
+      "number": 2,
+      "title": "Demo Song Two",
+      "audioUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/2.wav",
+      "lrcUrl": "https://raw.githubusercontent.com/JMIRADOR27/platinum-catalog/main/songs/2.lrc"
+    }
+  ]
+}
